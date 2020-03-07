@@ -1,11 +1,10 @@
-# TowerSim.com
-Towersim ATC Tower Simulator
+# Towersim ATC Tower Simulator
 
 TowerSim is a 360 degree air traffic control tower simulator designed to be used in the training of aerodrome controllers. 
 
 TowerSim can be set up to simulate any airport provided the geographical co-ordinates of the runways, taxiways, parking bays and navaids for the area are supplied. 
 
-Configuring airports is a relatively easy process, with a very basic version of FIMP being completed in a week. Once the configuration files, that describe the airportâ€™s GPS locations and the photos, are processed, the aircraft can accept commands and be directed around the environment. 
+Configuring airports is a relatively easy process, with a very basic version of FIMP being completed in a week. Once the configuration files, that describe the airport's GPS locations and the photos, are processed, the aircraft can accept commands and be directed around the environment. 
 
 Aircraft data and appearance is easily editable so creating aircraft that resemble the local traffic is possible. 
 
@@ -29,7 +28,7 @@ Some of the editable portions of the simulator are,
 * User defined buttons and macros for the TGO management console.
 * Voice switching channels, (Frequencies, Hotlines and Coldlines)
 
-An aircraftâ€™s simulation can be either totally controlled by artificial intelligence or from the pilot positions via requests by a trainee controller. A typical example of AI control might be when a aircraft needs to control itself while in somebody elseâ€™s airspace, i.e. an aircraft departs from another airport and flies via several waypoints and navaids until it gets to the towers airspace, where it will contact the tower to receive a landing clearance, taxi instructions, touch and go, or anything else. There are many commands that the aircraft can accept, either by SFP (Standard Flight Plan) or manual entry that will enable the aircraft to do whatever is desired. All of this is entered into the text based configuration files or via the Pilot Positions. 
+An aircraft's simulation can be either totally controlled by artificial intelligence or from the pilot positions via requests by a trainee controller. A typical example of AI control might be when a aircraft needs to control itself while in somebody else's airspace, i.e. an aircraft departs from another airport and flies via several waypoints and navaids until it gets to the towers airspace, where it will contact the tower to receive a landing clearance, taxi instructions, touch and go, or anything else. There are many commands that the aircraft can accept, either by SFP (Standard Flight Plan) or manual entry that will enable the aircraft to do whatever is desired. All of this is entered into the text based configuration files or via the Pilot Positions. 
 
 The Pilot positions consist of a management console, which enables sending commands to each aircraft, general simulator settings and a situation display that displays each aircrafts location, level, heading, navaids and airport. There are several programmable macro buttons for common commands. For example, an instruction to taxi via S E P taxiways for RWY 27 at Melbourne, a clearance to land, take off and proceed via a standard instrument departure, or many other options. 
 
